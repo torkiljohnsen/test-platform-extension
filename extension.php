@@ -101,7 +101,7 @@ return array(
     */
 
     'require' => array(
-        //'torkiljohnsen/test-repo',
+        'torkiljohnsen/test-repo',
     ),
 
     /*
