@@ -1,0 +1,23 @@
+{
+    "name": "torkiljohnsen/test-platform-extension",
+    "type": "platform-extension",
+    "description": "Testing platform extension with a dependency",
+    "authors": [
+        {
+            "name": "Torkil Sinkaberg Johnsen",
+            "email": "torkil.johnsen@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.cartalyst.com"
+        }
+    ],
+    "require": {
+        "cartalyst/composer-installers": "1.0.*",
+        "illuminate/support": "4.1.x"
+    },
+
+    "minimum-stability": "dev"
+}
