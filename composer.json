@@ -13,10 +13,6 @@
         {
             "type": "composer",
             "url": "http://packages.cartalyst.com"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:torkiljohnsen/test-repo.git"
         }
     ],
     "require": {
