@@ -2,6 +2,7 @@
     "name": "torkiljohnsen/test-platform-extension",
     "type": "platform-extension",
     "description": "Testing platform extension with a dependency",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Torkil Sinkaberg Johnsen",
