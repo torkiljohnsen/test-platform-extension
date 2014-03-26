@@ -12,11 +12,16 @@
         {
             "type": "composer",
             "url": "http://packages.cartalyst.com"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@github.com:torkiljohnsen/test-repo.git"
         }
     ],
     "require": {
         "cartalyst/composer-installers": "1.0.*",
-        "illuminate/support": "4.1.x"
+        "illuminate/support": "4.1.x",
+        "torkiljohnsen/test-repo": "dev-master"
     },
 
     "minimum-stability": "dev"
